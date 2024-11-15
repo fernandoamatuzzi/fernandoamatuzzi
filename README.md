@@ -23,15 +23,18 @@ Technologies used: **HTML**, **CSS** and **JavaScript**.
 
 Sample:
 
-<img src="https://github.com/fernandoamatuzzi/Web-Portfolio/blob/main/4More%20Cleaning%20Services/4More%20Cleaning%20Services%20Sample.gif" width="400" alt="4More Cleaning Services Website">
+<img src="https://github.com/fernandoamatuzzi/Web-Portfolio/blob/main/4More%20Cleaning%20Services/4More%20Cleaning%20Services%20Sample.gif" width="400" alt="4More Cleaning Services Website Sample">
 
 
 #### 📽️ [Film Opinion](https://github.com/fernandoamatuzzi/Web-Portfolio/tree/main/film_opinion)
-![Project Screenshot](https://your-screenshot-link.com)
 
 A simple website that allows the user to search for movies from different categories and read a quick synopsis of the film.
 
 Technologies used: **HTML** and **CSS**
+
+Sample:
+
+<img src="https://github.com/fernandoamatuzzi/Web-Portfolio/blob/main/film_opinion/FilmOpinion%20Sample.gif" width="400" alt="FilmOpinion Website Sample">
 
 
 ## 📫 Connect with me!
