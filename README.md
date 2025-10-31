@@ -22,6 +22,7 @@
 A modern website for a cleaning company that is starting on the market.
 
 Focus: Clean, accessible UI and maintainable code structure.
+
 Technologies used: **HTML**, **CSS** and **JavaScript**.
 
 Sample:
@@ -34,6 +35,7 @@ Sample:
 A simple website that allows the user to search for movies from different categories and read a quick synopsis of the film.
 
 Focus: Interface consistency and usability testing.
+
 Technologies used: **HTML** and **CSS**
 
 
