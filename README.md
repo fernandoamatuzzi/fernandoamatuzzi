@@ -20,8 +20,8 @@
 #### 🫧 [4More Cleaning Services](https://github.com/fernandoamatuzzi/Web-Portfolio/tree/main/4More%20Cleaning%20Services)
 
 A modern website for a cleaning company that is starting on the market.
-Focus: Clean, accessible UI and maintainable code structure.
 
+Focus: Clean, accessible UI and maintainable code structure.
 Technologies used: **HTML**, **CSS** and **JavaScript**.
 
 Sample:
@@ -32,8 +32,8 @@ Sample:
 #### 📽️ [Film Opinion](https://github.com/fernandoamatuzzi/Web-Portfolio/tree/main/film_opinion)
 
 A simple website that allows the user to search for movies from different categories and read a quick synopsis of the film.
-Focus: Interface consistency and usability testing.
 
+Focus: Interface consistency and usability testing.
 Technologies used: **HTML** and **CSS**
 
 
