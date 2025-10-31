@@ -1,8 +1,10 @@
 # Hi there, I’m Fernando! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Hi">
 
-🌟 Frontend Developer with 3+ years of experience in crafting user-friendly interfaces with **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **NodeJS**, and **GitHub**.
+🌟 Front-End Developer transitioning to QA - ISTQB CTFL Certified, with 3+ years of experience in crafting user-friendly interfaces with **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **NodeJS**, and **GitHub**.
 
-🚀 Passionate about diagnosing and fixing bugs, improving codebases, and creating accessible and enjoyable user experiences.
+🧪 Currently expanding my skills in manual and automated testing using Playwright, Cypress, and Postman, with a strong focus on ensuring seamless user experiences and reliable functionality.
+
+🚀 Passionate about software quality, bug detection, and continuous improvement. I believe great software starts with great testing.
 
 
 ## 🛠️ Technologies & Tools
@@ -18,6 +20,7 @@
 #### 🫧 [4More Cleaning Services](https://github.com/fernandoamatuzzi/Web-Portfolio/tree/main/4More%20Cleaning%20Services)
 
 A modern website for a cleaning company that is starting on the market.
+Focus: Clean, accessible UI and maintainable code structure.
 
 Technologies used: **HTML**, **CSS** and **JavaScript**.
 
@@ -29,8 +32,10 @@ Sample:
 #### 📽️ [Film Opinion](https://github.com/fernandoamatuzzi/Web-Portfolio/tree/main/film_opinion)
 
 A simple website that allows the user to search for movies from different categories and read a quick synopsis of the film.
+Focus: Interface consistency and usability testing.
 
 Technologies used: **HTML** and **CSS**
+
 
 Sample:
 
@@ -46,9 +51,9 @@ Sample:
 
 ## 🎉 Fun Facts
 
-- 🌎 I love exploring the world and have already visited 46 countries (and counting!).
-- 🏓 In my free time, I enjoy reading and playing table tennis and board games.
-- ☕ Coffee-powered coder.
+- 🌎 I’ve explored over 50 countries (and counting!). I love learning from new cultures and experiences.
+- 🏓 I enjoy reading, table tennis, and board games in my free time.
+- ☕ Coffee-powered tester. Nothing starts without a good espresso!
 
 
 <!---
