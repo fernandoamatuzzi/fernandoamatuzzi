@@ -9,10 +9,10 @@
 
 ## 🛠️ Technologies & Tools
 
-| Front-End         | Back-End           | Version Control  |
-|-------------------|--------------------|------------------|
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
+| QA Testing        | Front-End         | Back-End           | Version Control  |
+|-------------------|-------------------|--------------------|------------------|
+| ISTQB CTFL Manual Testing  Automated Testing (Playwright) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+| Exploratory testing Regression testing Smoke testing | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
 
 
 ## 🌟 Projects
