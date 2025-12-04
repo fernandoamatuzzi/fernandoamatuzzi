@@ -95,7 +95,7 @@ Sample:
 ## 🎉 Fun Facts
 
 - 🌎 I’ve explored over 50 countries (and counting!). I love learning from new cultures and experiences.
-- 🏓 I enjoy reading, table tennis, and board games in my free time.
+- 🏓 I enjoy reading, playing table tennis and board games in my free time.
 - ☕ Coffee-powered tester. Nothing starts without a good espresso!
 
 
