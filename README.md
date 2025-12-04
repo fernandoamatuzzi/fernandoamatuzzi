@@ -9,11 +9,47 @@
 
 ## 🛠️ Technologies & Tools
 
-| QA Testing        | Front-End         | Back-End           | Version Control  | Tools |
-|-------------------|-------------------|--------------------|------------------|-------|
-| ![Test Design & Planning](https://img.shields.io/badge/-Test%20Design%20&%20Planning-4CAF50?logo=readthedocs&logoColor=white)<br>Test Case Design · Test Planning · Test Documentation <br><br> ![Execution & Coverage](https://img.shields.io/badge/-Execution%20&%20Coverage-2196F3?logo=selenium&logoColor=white)<br>Exploratory Testing · Regression Testing · Smoke Testing · End-to-End Testing · User Acceptance Testing · Test Execution <br><br> ![Defects & Analysis](https://img.shields.io/badge/-Defects%20&%20Analysis-F44336?logo=jira&logoColor=white)<br>Defect Tracking · Bug Reporting · Root Cause Analysis | ![Front-End](https://img.shields.io/badge/-Front%20End-E34F26?logo=html5&logoColor=white)<br>HTML5 · CSS3 · JavaScript · TypeScript · React | ![Back-End](https://img.shields.io/badge/-Back%20End-339933?logo=node.js&logoColor=white)<br>Node.js · Python | ![Version Control](https://img.shields.io/badge/-Version%20Control-F05032?logo=git&logoColor=white)<br>Git · GitHub | ![Automation](https://img.shields.io/badge/-Automation-43B02A?logo=selenium&logoColor=white)<br>Selenium · Cypress · Playwright <br><br> ![Test Management](https://img.shields.io/badge/-Test%20Management-0052CC?logo=jira&logoColor=white)<br>Jira · TestRail <br><br> ![API Testing](https://img.shields.io/badge/-API%20Testing-FF6C37?logo=postman&logoColor=white)<br>Postman <br><br> ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0078D7?logo=azuredevops&logoColor=white)<br>Azure DevOps |
-
-
+<table>
+  <tr>
+    <th>QA Testing</th>
+    <th>Front-End</th>
+    <th>Back-End</th>
+    <th>Version Control</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/-Test%20Design%20&%20Planning-4CAF50?logo=readthedocs&logoColor=white"><br>
+      Test Case Design · Test Planning · Test Documentation <br><br>
+      <img src="https://img.shields.io/badge/-Execution%20&%20Coverage-2196F3?logo=selenium&logoColor=white"><br>
+      Exploratory Testing · Regression Testing · Smoke Testing · End-to-End Testing · User Acceptance Testing · Test Execution <br><br>
+      <img src="https://img.shields.io/badge/-Defects%20&%20Analysis-F44336?logo=jira&logoColor=white"><br>
+      Defect Tracking · Bug Reporting · Root Cause Analysis
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/-Front%20End-E34F26?logo=html5&logoColor=white"><br>
+      HTML5 · CSS3 · JavaScript · TypeScript · React
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/-Back%20End-339933?logo=node.js&logoColor=white"><br>
+      Node.js · Python
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/-Version%20Control-F05032?logo=git&logoColor=white"><br>
+      Git · GitHub
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/-Automation-43B02A?logo=selenium&logoColor=white"><br>
+      Selenium · Cypress · Playwright <br><br>
+      <img src="https://img.shields.io/badge/-Test%20Management-0052CC?logo=jira&logoColor=white"><br>
+      Jira · TestRail <br><br>
+      <img src="https://img.shields.io/badge/-API%20Testing-FF6C37?logo=postman&logoColor=white"><br>
+      Postman <br><br>
+      <img src="https://img.shields.io/badge/-CI%2FCD-0078D7?logo=azuredevops&logoColor=white"><br>
+      Azure DevOps
+    </td>
+  </tr>
+</table>
 
 
 
