@@ -12,10 +12,10 @@
 <table>
   <tr>
     <th>QA Testing</th>
-    <th width="200">Front-End</th>
+    <th width="150">Front-End</th>
     <th>Back-End</th>
     <th>Version Control</th>
-    <th width="200">Tools</th>
+    <th width="150">Tools</th>
   </tr>
   <tr>
     <td valign="top">
