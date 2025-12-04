@@ -15,7 +15,7 @@ ISTQB-certified QA Tester with 3+ years of software development experience and p
     <th>QA Testing</th>
     <th width="110"><img src="https://img.shields.io/badge/-FRONT%20END-E34F26?logo=html5&logoColor=white"></th>
     <th width="110"><img src="https://img.shields.io/badge/-BACK%20END-339933?logo=node.js&logoColor=white"></th>
-    <th><img src="https://img.shields.io/badge/-VERSION%20CONTROL-F05032?logo=git&logoColor=white"></th>
+    <th><img src="https://img.shields.io/badge/-VERSION<br>%20CONTROL-F05032?logo=git&logoColor=white"></th>
     <th width="150"><img src="https://img.shields.io/badge/-TOOLS-2196F3?logo=textpattern&logoColor=white"></th>
   </tr>
   <tr>
