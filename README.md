@@ -13,8 +13,8 @@ ISTQB-certified QA Tester with 3+ years of software development experience and p
 <table>
   <tr>
     <th>QA Testing</th>
-    <th width="110">Front-End</th>
-    <th width="110">Back-End</th>
+    <th width="110"><img src="https://img.shields.io/badge/-Front%20End-E34F26?logo=html5&logoColor=white"></th>
+    <th width="110"><img src="https://img.shields.io/badge/-Back%20End-339933?logo=node.js&logoColor=white"></th>
     <th>Version Control</th>
     <th width="150">Tools</th>
   </tr>
@@ -30,11 +30,9 @@ ISTQB-certified QA Tester with 3+ years of software development experience and p
       Defect Tracking · Bug Reporting · Root Cause Analysis
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/-Front%20End-E34F26?logo=html5&logoColor=white"><br>
       · HTML5 <br>· CSS3 <br>· JavaScript <br>· TypeScript <br>· React
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/-Back%20End-339933?logo=node.js&logoColor=white"><br>
       · Node.js <br>· Python <br>· PHP
     </td>
     <td valign="top">
