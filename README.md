@@ -30,25 +30,25 @@
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/-Front%20End-E34F26?logo=html5&logoColor=white"><br>
-      HTML5 · CSS3 · JavaScript · TypeScript · React
+      · HTML5 <br>· CSS3 <br>· JavaScript <br>· TypeScript <br>· React
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/-Back%20End-339933?logo=node.js&logoColor=white"><br>
-      Node.js · Python · PHP
+      · Node.js <br>· Python <br>· PHP
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/-Version-F05032?logo=git&logoColor=white"><br>
-      Git · GitHub
+      · Git <br>· GitHub
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/-Automation-43B02A?logo=googlesearchconsole&logoColor=white"><br>
-      Playwright · Cypress <br><br>
+      · Playwright <br>· Cypress <br><br>
       <img src="https://img.shields.io/badge/-Test%20Management-0052CC?logo=jira&logoColor=white"><br>
-      Jira · Confulence <br><br>
+      · Jira <br>· Confulence <br><br>
       <img src="https://img.shields.io/badge/-API%20Testing-FF6C37?logo=postman&logoColor=white"><br>
-      Postman <br><br>
+      · Postman <br><br>
       <img src="https://img.shields.io/badge/-Design-0078D7?logo=asciinema&logoColor=white"><br>
-      Figma · Abstract
+      · Figma <br>· Abstract
     </td>
   </tr>
 </table>
