@@ -21,9 +21,9 @@
     <td valign="top">
       <img src="https://img.shields.io/badge/-Test%20Design%20&%20Planning-4CAF50?logo=readthedocs&logoColor=white"><br>
       Test Case Design · Test Planning · Test Documentation <br><br>
-      <img src="https://img.shields.io/badge/-Execution%20&%20Coverage-2196F3?logo=googleearthengine&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/-Execution%20&%20Coverage-2196F3?logo=textpattern&logoColor=white"><br>
       Exploratory Testing · Regression Testing · Smoke Testing · End-to-End Testing · User Acceptance Testing · Test Execution <br><br>
-      <img src="https://img.shields.io/badge/-Defects%20&%20Analysis-F44336?logo=textpattern&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/-Defects%20&%20Analysis-F44336?logo=searxng&logoColor=white"><br>
       Defect Tracking · Bug Reporting · Root Cause Analysis
     </td>
     <td valign="top">
