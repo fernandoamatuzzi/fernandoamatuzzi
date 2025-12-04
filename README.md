@@ -13,7 +13,7 @@
   <tr>
     <th>QA Testing</th>
     <th width="110">Front-End</th>
-    <th>Back-End</th>
+    <th width="110">Back-End</th>
     <th>Version Control</th>
     <th width="150">Tools</th>
   </tr>
