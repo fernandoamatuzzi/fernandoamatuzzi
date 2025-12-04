@@ -1,6 +1,7 @@
 # Hi there, I’m Fernando! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Hi">
 
-🌟 Front-End Developer transitioning to QA - ISTQB CTFL Certified, with 3+ years of experience in crafting user-friendly interfaces with **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **NodeJS**, and **GitHub**.
+🌟 Front-End Developer transitioning to QA <br>
+ISTQB-certified QA Tester with 3+ years of software development experience and proven expertise in manual testing, automated testing, and defect management. Strong technical background in JavaScript, React, Node.js, and Playwright test automation. Demonstrated success in identifying critical defects early in the development cycle, executing comprehensive test cases, and collaborating effectively within Agile and Scrum environments. Combines hands-on development experience with quality assurance expertise to deliver robust, user-focused software solutions. Additional 10+ years of customer service excellence, providing a strong end-user perspective on product quality and usability.
 
 🧪 Currently expanding my skills in manual and automated testing using Playwright, Cypress, and Postman, with a strong focus on ensuring seamless user experiences and reliable functionality.
 
