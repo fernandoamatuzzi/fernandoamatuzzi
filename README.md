@@ -19,6 +19,8 @@
   </tr>
   <tr>
     <td valign="top">
+      <img src="https://img.shields.io/badge/-Certification-00599C?logo=verizon&logoColor=white"><br>
+      ISTQB Certified Tester Foundation Level <br><br>
       <img src="https://img.shields.io/badge/-Test%20Design%20&%20Planning-4CAF50?logo=readthedocs&logoColor=white"><br>
       Test Case Design · Test Planning · Test Documentation <br><br>
       <img src="https://img.shields.io/badge/-Execution%20&%20Coverage-2196F3?logo=textpattern&logoColor=white"><br>
